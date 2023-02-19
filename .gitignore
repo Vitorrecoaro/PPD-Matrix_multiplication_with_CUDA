@@ -1,2 +1,6 @@
 **/.vscode/
 *-prog
+*.c
+*.cu
+*.out
+/files
